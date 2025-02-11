@@ -1,8 +1,9 @@
 import React from 'react'
+import '../index.css'
 
 function Contact() {
   return (
-    <div>Contact</div>
+    <div className='bg-blue-400 h-[700px]'>Contact</div>
   )
 }
 
